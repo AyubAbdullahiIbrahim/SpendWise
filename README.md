@@ -18,7 +18,7 @@ This project was deployed online using GitHub and Netlify.
 ## GitHub Repository Information
 
 - Repository Name: SpendWise
-- GitHub Repository: https://github.com/YOUR-GITHUB-USERNAME/SpendWise
+- GitHub Repository:https://github.com/AyubAbdullahiIbrahim/SpendWise
 
 ## Live Netlify Website
 
