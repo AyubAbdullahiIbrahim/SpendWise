@@ -22,7 +22,7 @@ This project was deployed online using GitHub and Netlify.
 
 ## Live Netlify Website
 
-- Live Website: https://YOUR-ACTUAL-SITE-NAME.netlify.app
+- Live Website: https://spendwise-ayub.netlify.app
 
 ## Deployment Process Summary
 
