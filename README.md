@@ -1,116 +1,55 @@
 
-# SpendWise - Interactive Expense Tracker
+# SpendWise – Personal Budget & Expense Tracker
 
-## Project Overview
+## Project Description
 
-SpendWise is a personal budget and expense tracking web application.
-It helps users set a budget, record expenses, calculate spending,
-and monitor their remaining budget.
+SpendWise is a personal budget and expense tracker designed to help users manage their income and expenses. It provides a simple and user-friendly interface for recording expenses and tracking financial activities.
 
-This project was improved using JavaScript concepts learned
-during Week 6 of the PLP Web Development course.
+This project was deployed online using GitHub and Netlify.
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
+- HTML5 – Website structure
+- CSS3 – Styling and responsive design
+- JavaScript – Interactive functionality
+- GitHub – Source code storage and version control
+- Netlify – Website hosting and deployment
 
-## Project Files
+## GitHub Repository Information
 
-- index.html - The structure of the application.
-- style.css - The styling and responsive design.
-- script.js - The application logic and interactivity.
-- README.md - Project documentation.
+- Repository Name: SpendWise
+- GitHub Repository: https://github.com/YOUR-GITHUB-USERNAME/SpendWise
 
-## Features
+## Live Netlify Website
 
-- Set a personal budget.
-- Add expenses with names, amounts, and categories.
-- Store multiple expense records in an array.
-- Calculate total expenses.
-- Display the remaining budget.
-- Provide budget feedback.
-- Delete individual expenses.
-- Clear all expense records.
-- Update the dashboard dynamically.
-- Validate user input.
+- Live Website: https://YOUR-ACTUAL-SITE-NAME.netlify.app
 
-## JavaScript Concepts Used
+## Deployment Process Summary
 
-### 1. Conditional Statements
+1. Reviewed and organized the SpendWise project files.
+2. Created a public GitHub repository.
+3. Uploaded the project files to GitHub.
+4. Connected the GitHub repository to Netlify.
+5. Deployed the website using Netlify.
+6. Changed the default Netlify site name to a meaningful name.
+7. Tested the live website to confirm that HTML, CSS and JavaScript worked correctly.
+8. Updated the project on GitHub and verified that Netlify automatically deployed the changes.
 
-Conditional statements are used to validate user input and
-evaluate budgeting scenarios.
+## Challenges Encountered During Deployment
 
-The application checks whether the user has exceeded the budget,
-used the entire budget, used 80% or more of the budget,
-or is still within the budget.
+- Understanding how to connect GitHub to Netlify.
+- Configuring the deployment settings correctly.
+- Choosing a suitable Netlify site name.
+- Testing the live website and verifying automatic deployment.
 
-### 2. Arrays
+## Lessons Learned
 
-An array called expenses stores multiple expense records.
-
-Each expense is stored as an object containing an ID, name,
-amount, and category.
-
-The array allows the application to manage multiple records.
-
-### 3. Loops
-
-For loops are used to process expense records.
-
-The application uses loops to calculate the total expenses
-and display expense records on the webpage.
-
-### 4. DOM Manipulation
-
-JavaScript uses DOM manipulation to update dashboard figures,
-display expense records, and provide budget feedback.
-
-The webpage updates without requiring a full page reload.
-
-### 5. Event Listeners
-
-Event listeners handle user interactions.
-
-The application responds to form submissions, budget settings,
-expense deletion, and clearing all expense records.
-
-### 6. Functions
-
-Functions are used to organize the application logic.
-
-Examples include:
-
-- formatMoney()
-- calculateTotalExpenses()
-- updateDashboard()
-- displayExpenses()
-- updateBudgetFeedback()
-- deleteExpense()
-
-## Challenges Encountered
-
-One challenge was connecting JavaScript to HTML elements
-and ensuring the dashboard updated correctly.
-
-I resolved this by using DOM selectors, event listeners,
-functions, and loops to process and display expense records.
-
-Another challenge was validating user input and handling
-budget scenarios. I used conditional statements to provide
-appropriate feedback.
-
-## How to Run the Project
-
-1. Download or clone the repository.
-2. Open the project folder in Visual Studio Code.
-3. Open index.html in a browser.
-4. Set a budget.
-5. Add expenses.
-6. Test the dashboard, delete button, and clear button.
+- How to organize a web project for deployment.
+- How to create and manage a public GitHub repository.
+- How to deploy a website using Netlify.
+- How continuous deployment works.
+- How to test and troubleshoot a live website.
 
 ## Author
 
-PLP Web Development Fundamentals - Week 6 Assignment
+SpendWise Project
